@@ -1,0 +1,30 @@
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Evan\Desktop\CSharpDotNet\Ex_Files_C_and_NET_Essential_Training\Exercise Files\Start\Overview\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.exe
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.deps.json
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.runtimeconfig.json
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\bin\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\refint\MyConsoleApp.dll
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.pdb
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\Evan\Desktop\CSharpTraining\MyConsoleApp\obj\Debug\net7.0\ref\MyConsoleApp.dll
